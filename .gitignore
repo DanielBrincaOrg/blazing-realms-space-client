@@ -1,0 +1,130 @@
+# Unity3D
+# =============
+*.stackdump
+*.stackdump.meta
+sysinfo.txt
+sysinfo.txt.meta
+/[Ll]ogs/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ss]ub[Mm]odules/
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/Bundles*
+/Assets/StreamingAssets/build_info*
+/Assets/_Temp*
+/[Rr]ecordings/
+/[Rr]ewired[Bb]ackup/
+/[Bb]uild[Rr]eports/
+/glTF/data/
+/TPS_cache/
+
+# Unity Collaborate
+# =============
+.collab/
+.collabignore
+collabignore.txt
+
+# IDE
+# =============
+.idea/
+.vs/
+.vscode/
+omnisharp.json
+omnisharp.json.meta
+.gradle/
+*.booproj
+*.booproj.meta
+*.csproj
+*.csproj.meta
+*.pdb
+*.pdb.meta
+*.pidb
+*.pidb.meta
+*.sln
+*.sln.meta
+*.suo
+*.suo.meta
+*.unityproj
+*.unityproj.meta
+*.user
+*.user.meta
+*.userprefs
+*.userprefs.meta
+[Ee]xported[Oo]bj/
+.consulo/
+*.tmp
+*.tmp.meta
+*.svd
+*.svd.meta
+/Assets/Plugins/Sirenix/Assemblies/AOT/*
+/Assets/Plugins/Sirenix/Demos/*
+!/Assets/Plugins/Sirenix/Demos/*.unitypackage 
+
+# Photoshop
+# =============
+*-assets/
+
+# Compiled source 
+# =============
+#*.com
+#*.class
+#*.dll
+#*.exe
+#*.o
+#*.o.meta
+#*.so
+#*.so.meta
+*.apk
+*.apk.meta
+*.ipa
+*.ipa.meta
+#*.unitypackage
+#*.unitypackage.meta
+crashlytics-build.properties
+crashlytics-build.properties.meta
+
+# Packages 
+# =============
+*.7z
+*.7z.meta
+*.dmg
+*.dmg.meta
+*.gz
+*.gz.meta
+*.iso
+*.iso.meta
+*.jar
+*.jar.meta
+*.rar
+*.rar.meta
+*.tar
+*.tar.meta
+*.zip
+*.zip.meta
+
+# Logs and databases
+# =============
+*.log
+*.log.meta
+*.sql
+*.sql.meta
+#*.sqlite
+*.db-journal
+*.db-journal.meta
+
+# OS generated files 
+# =============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs.db.meta
+[Dd]esktop.ini
+[Dd]esktop.ini.meta
+[Tt]humbs.db
+[Tt]humbs.db.meta
